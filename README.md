@@ -1,6 +1,3 @@
-# Axix 
-Axix is chatbot featuring command raging from fun to mod
-
 axix features a chatbot module with 2 engines, use this to engage your users.use our documentaion for more help [Dcoumentation](https://docs.axixbot.tk/)
 want to welcome new users with a anime welcomer image? axix has that, set a channel and a message and axix will handle the rest, 
 ** use .jointest to test the welcomer module,(please configure it first) 
@@ -30,5 +27,35 @@ Axix now features giveaways,
 
 Now you can have reaction roles!!
 
+[Reaction role docs](https://docs.axixbot.tk/reaction-roles)
 
 
+
+
+# LINKS-
+[Giveaway setup docs](https://docs.axixbot.tk/giveaways)
+
+[welcomer setup docs](https://docs.axixbot.tk/welcomer-setup) 
+
+[Documentation](https://docs.axixbot.tk/)
+
+
+[Dashboard](https://dash.axixbot.tk/)
+
+
+[Website](https://www.axixbot.tk/)
+
+
+[Invite](https://www.axixbot.tk/invite)
+
+
+[Support server](https://www.axixbot.tk/join)
+
+
+
+ # statistics
+ 
+ 
+<a href="https://top.gg/bot/715178668393103420" >
+  <img src="https://top.gg/api/widget/715178668393103420.svg" alt="Axix" />
+</a>
