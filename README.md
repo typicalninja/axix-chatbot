@@ -1,3 +1,6 @@
+
+### Axix bot bug reports
+
 axix features a chatbot module with 2 engines, use this to engage your users.use our documentaion for more help [Dcoumentation](https://docs.axixbot.tk/)
 want to welcome new users with a anime welcomer image? axix has that, set a channel and a message and axix will handle the rest, 
 ** use .jointest to test the welcomer module,(please configure it first) 
